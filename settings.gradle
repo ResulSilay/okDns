@@ -1,0 +1,3 @@
+include ':okDns'
+include ':app'
+rootProject.name = "dns"
