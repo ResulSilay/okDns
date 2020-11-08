@@ -7,7 +7,7 @@ Set dns for android okHttp.
 Add it in your root build.gradle at the end of repositories:
 
 ```bash
-implementation 'com.github.ResulSilay:okDns:1.0.0'
+implementation 'com.github.ResulSilay:okDns:v1.0.0'
 ```
 
 ## Usage
