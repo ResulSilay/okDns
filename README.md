@@ -4,8 +4,6 @@ Set dns for android okHttp.
 
 ## Installation
 
-Add it in your root build.gradle at the end of repositories:
-
 ```bash
 allprojects {
     repositories {
@@ -14,6 +12,8 @@ allprojects {
     }
 }
 ```
+
+Add it in your root build.gradle at the end of repositories:
 
 ```bash
 implementation 'com.github.ResulSilay:okDns:1.0.0'
